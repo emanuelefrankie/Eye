@@ -1,1 +1,1 @@
-# Eye
+In this exercise I was given an eye that followed the mouse movement, the task was to create a second eye that also followed the mouse movement. To do this open the page and move the mouse around the screen.
